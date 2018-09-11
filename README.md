@@ -1,7 +1,7 @@
 # VcXsrv-for-WSL
 VcXsrv-for-WSL
 
-<img src="pictures/VcXsrv.png" width="800">
+<img src="pictures/VcXsrv-01.png" width="800">
 
 ## DISKLAIMER
 
