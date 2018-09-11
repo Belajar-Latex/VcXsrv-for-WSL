@@ -1,7 +1,38 @@
-# VcXsrv-for-WSL
-VcXsrv-for-WSL
+<h1>VcXsrv-for-WSL</h1>
+
+<img src="pictures/aen.jpg" width="150">
 
 <img src="pictures/VcXsrv-01.png" width="800">
+
+<img src="pictures/VcXsrv-02.png" width="800">
+
+<img src="pictures/VcXsrv-03.png" width="800">
+
+<img src="pictures/VcXsrv-04.png" width="800">
+
+<img src="pictures/VcXsrv-05.png" width="800">
+
+<img src="pictures/VcXsrv-06.png" width="800">
+
+<img src="pictures/VcXsrv-07.png" width="800">
+
+<img src="pictures/VcXsrv-08.png" width="800">
+
+<img src="pictures/VcXsrv-09.png" width="800">
+
+<img src="pictures/VcXsrv-10.png" width="800">
+
+<img src="pictures/VcXsrv-11.png" width="800">
+
+<img src="pictures/VcXsrv-12.png" width="800">
+
+<img src="pictures/VcXsrv-13.png" width="800">
+
+<img src="pictures/VcXsrv-14.png" width="800">
+
+<img src="pictures/VcXsrv-15.png" width="800">
+
+<img src="pictures/VcXsrv-16.png" width="800">
 
 ## DISKLAIMER
 
