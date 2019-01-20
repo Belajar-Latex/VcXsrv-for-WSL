@@ -1,5 +1,7 @@
 <h1>VcXsrv-for-WSL</h1>
 
+[https://sourceforge.net/projects/vcxsrv/](https://sourceforge.net/projects/vcxsrv/files/latest/download)
+
 <img src="pictures/aen.jpg" width="150">
 
 <img src="pictures/VcXsrv-01.png" width="800">
@@ -44,5 +46,5 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-00--11-Sep-2018</a>
+01--20-Jan-2019</a>
 
